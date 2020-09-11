@@ -1,6 +1,6 @@
 {
   "name": "casino-server",
-  "version": "0.1.5",
+  "version": "0.0.1",
   "description": "An multi-rule scalable online poker game server powered by redis, node.js and socket.io",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/floatinghotpot/casino-server.git"
+    "url": "https://github.com/domi1kenobi/casino-server.git"
   },
   "keywords": [
     "casino",
@@ -26,7 +26,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/floatinghotpot/casino-server/issues"
+    "url": "https://github.com/domi1kenobi/casino-server/issues"
   },
   "dependencies": {
     "minimist": "^1.1.0",
